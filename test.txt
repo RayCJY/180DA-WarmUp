@@ -1,0 +1,3 @@
+Task 2: In the local repo, please finish section 3 and within the virtual environment, open
+a new file test.txt and save some sample text. Add, commit and push to remote repo and
+verify that it shows up in your GUIs (Github, SourceTree).
